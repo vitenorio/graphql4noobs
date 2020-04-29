@@ -6,7 +6,7 @@ Antes de começarmos, é necessário pontuar algumas questões que permeiam todo
 
 **GraphQL não é um banco de dados**
 
-Ele não possui nenhuma relação com o banco de dados, muito menos é um *[ORM](#####¹)¹*. Ele não necessariamente precisa de um banco de dados para funcionar.
+Ele não possui nenhuma relação com o banco de dados, muito menos é um *[ORM](https://github.com/guiananias/graphql4noobs/blob/master/content/A%20trabalhar/Introdu%C3%A7%C3%A3o%20ao%20GraphQL.md#-orm-%C3%A9-a-sigla-para-object-relational-mapping-uma-t%C3%A9cnica-que-prop%C3%B5e-se-aproximar-o-desenvolvimento-de-aplica%C3%A7%C3%B5es-orientadas-a-objetos-ao-paradigma-do-banco-de-dados-relacional-para-saber-mais-acesse-mapeamento-de-objeto-relacional---wikipedia)¹*. Ele não necessariamente precisa de um banco de dados para funcionar.
 
 **GraphQL é agnóstico**
 
