@@ -20,6 +20,6 @@ Caso você queira contribuir neste projeto, siga estes passos:
 
 ## Autores
 
-| [<img src="https://avatars2.githubusercontent.com/u/47952043?s=460&u=5a6916079cd87c57d1a6c1fe4d670f5d5d655c62&v=4" width=115><br><sub>Guilherme Almeida<br />(@guiananias)</sub>](https://github.com/filipedeschamps) |
+| [<img src="https://avatars2.githubusercontent.com/u/47952043?s=460&u=5a6916079cd87c57d1a6c1fe4d670f5d5d655c62&v=4" width=115><br><sub>Guilherme Almeida<br />(@guiananias)</sub>](https://github.com/guiananias) |
 | :---: |
 | [Twitter](https://twitter.com/noghartt) |
