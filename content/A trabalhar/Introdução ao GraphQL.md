@@ -6,7 +6,7 @@ Antes de começarmos, é necessário pontuar algumas questões que permeiam todo
 
 **GraphQL não é um banco de dados**
 
-Ele não possui nenhuma relação com o banco de dados, muito menos é um *[ORM](####¹)¹*. Ele não necessariamente precisa de um banco de dados para funcionar.
+Ele não possui nenhuma relação com o banco de dados, muito menos é um *[ORM](#####¹)¹*. Ele não necessariamente precisa de um banco de dados para funcionar.
 
 **GraphQL é agnóstico**
 
