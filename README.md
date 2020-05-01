@@ -17,7 +17,9 @@ GraphQL é uma query language desenvolvida inicialmente pelo Facebook em meados 
 
 ## Conteúdo
 
-- **[Introdução](https://github.com/guiananias/graphql4noobs/tree/master/content/1%20-%20Introdução/1.1%20-%20Sobre%20o%20projeto.md)**
+- :sparkles: **[Introdução](https://github.com/guiananias/graphql4noobs/tree/master/content/1%20-%20Introdução)**
+    - :computer: **[Sobre o projeto](https://github.com/guiananias/graphql4noobs/tree/master/content/1%20-%20Introdução/1.1%20-%20Sobre%20o%20projeto.md)**
+    - :computer: **[Introdução ao GraphQL](https://github.com/guiananias/graphql4noobs/blob/master/content/1%20-%20Introdu%C3%A7%C3%A3o/1.2%20-%20Introdu%C3%A7%C3%A3o%20ao%20GraphQL.md)**
 
 ## Quero contribuir
 
