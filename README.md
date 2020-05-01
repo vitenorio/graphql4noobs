@@ -5,11 +5,11 @@
 
 ## Overview
 
-- [O que é GraphQL](#O-que-é-GraphQL?)
-- [Conteúdo](#Conteúdo)
-- [Quero contribuir](#Quero-contribuir)
-- [Autores](#Autores)
-- [Licença](#Licença)
+- [O que é GraphQL](#o-que-é-graphQL?)
+- [Conteúdo](#conteúdo)
+- [Quero contribuir](#quero-contribuir)
+- [Autores](#autores)
+- [Licença](#licença)
 
 ## O que é GraphQL?
 
