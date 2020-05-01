@@ -1,6 +1,6 @@
 # Introdução ao GraphQL
 
-GraphQL vem se tornando uma parte muito comentada desse amplo ecossistema web. Não é atoa que mais e mais poderemos perceber seu protragonismo.
+GraphQL vem se tornando uma parte muito comentada desse amplo ecossistema web. Não é atoa que mais e mais poderemos perceber seu protagonismo.
 
 Antes de começarmos, é necessário pontuar algumas questões que permeiam todo os questionamentos em volta dessa linguagem. Vamos lá:
 
@@ -10,11 +10,23 @@ Ele não possui nenhuma relação com o banco de dados, muito menos é um *[ORM]
 
 **GraphQL é agnóstico**
 
+Isso significa que pode ser utilizado qualquer banco de dados.
 
-<br />
+**GraphQL não é exclusivo para HTTP/APIs**
+
+Na verdade ele não usa verbos HTTP, desconhece completamente esta camada.
+
+**Afinal, o que é GraphQL?**
+
+É uma *[query language](https://github.com/guiananias/graphql4noobs/blob/master/content/A%20trabalhar/Introdu%C3%A7%C3%A3o%20ao%20GraphQL.md#)²*  para APIs baseada no conceito de grafos e estaticamente tipado, assim, cada coisa precisa de um tipo e esse tipos geram um schema. Existem alguns tipos base, como String, Int, Float, ID e Boolean, conhecidos como Scalar Types.
+
+O GraphQL permite a ligação entre recursos do sistema em forma de grafo, por sua vez, um grafo possui vários nós e cada nó é equivalente a um recurso do sistema, por exemplo um recurso pode ser um usuário, que por sua vez pode conter outros recursos como posts desse usuário.
+
 <br />
 <br />
 
 ---
 
 ##### ¹ ORM é a sigla para Object-Relational Mapping, uma técnica que propõe se aproximar o desenvolvimento de aplicações orientadas a objetos ao paradigma do banco de dados relacional. Para saber mais acesse: [Mapeamento de objeto relacional - Wikipedia](https://pt.wikipedia.org/wiki/Mapeamento_objeto-relacional).
+
+##### ² Query language é uma linguagem para realizar consultas em bancos de dados ou em sistemas. Para saber mais acesse: [Linguagem de Consulta - Wikipedia](https://pt.wikipedia.org/wiki/Linguagem_de_consulta).
