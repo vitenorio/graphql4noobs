@@ -12,6 +12,10 @@ Ele não possui nenhuma relação com o banco de dados, muito menos é um *[ORM]
 
 Isso significa que pode ser utilizado qualquer banco de dados.
 
+**GraphQL não é exclusivo para HTTP/APIs**
+
+Na verdade ele não usa verbos HTTP, ele desconhece completamente esta camada. GraphQL não se limita ao contexto de aplicações HTTP.
+
 
 <br />
 <br />
