@@ -16,11 +16,10 @@ Isso significa que pode ser utilizado qualquer banco de dados.
 
 Na verdade ele não usa verbos HTTP, desconhece completamente esta camada.
 
-**Afinal, o que é GraphQl?**
+**Afinal, o que é GraphQL?**
 
 É uma query language para APIs baseada no conceito de grafos e estaticamente tipado, assim, cada coisa precisa de um tipo e esse tipos geram um schema. Existem alguns tipos base, como String, Int, Float, ID e Boolean, conhecidos como Scalar Types.
 
-<br />
 <br />
 <br />
 
