@@ -20,6 +20,8 @@ Na verdade ele não usa verbos HTTP, desconhece completamente esta camada.
 
 É uma query language para APIs baseada no conceito de grafos e estaticamente tipado, assim, cada coisa precisa de um tipo e esse tipos geram um schema. Existem alguns tipos base, como String, Int, Float, ID e Boolean, conhecidos como Scalar Types.
 
+O GraphQL permite a ligação entre recursos do sistema em forma de grafo, por sua vez, um grafo possui vários nós e cada nó é equivalente a um recurso do sistema, por exemplo um recurso pode ser um usuário, que por sua vez pode conter outros recursos como posts desse usuário.
+
 <br />
 <br />
 
