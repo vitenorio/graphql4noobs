@@ -4,13 +4,24 @@ As Queries são usadas para solicitar dados da sua api, o que seria equivalente 
 
 ## Campos
 
-O GraphQL permite pedi para a api apenas os campos que serão utilizados, isso é uma vantagem para diminuir o consumo de dados.
+O GraphQL permite solicitar apenas os campos que serão utilizados, isso é uma vantagem para diminuir o consumo de dados.
 
-| ` 
+Nesse exemplo de Query, pedimos para a api só o campo nome:
+```
 {
-  usuário {
+  usuario {
     nome
   }
 }
-` 
-| 
+```
+
+E a api retorna: 
+```
+{
+  "data": {
+    "usuario": {
+      "nome": "Vitoria"
+    }
+  }
+}
+```
