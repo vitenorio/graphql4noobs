@@ -25,3 +25,28 @@ E a api retorna:
   }
 }
 ```
+
+## Argumentos
+
+No GraphQL, os campos e objetos podem ter seu próprio conjunto de argumentos, tornando o GraphQL um substituto completo para várias buscas de API.
+
+```
+{
+  usuario(id: "100") {
+    nome
+    altura
+  }
+}
+````
+
+Retorno da api:
+```
+{
+  "data": {
+    "usuario": {
+      "name": "Vitoria",
+      "height": 1.65
+    }
+  }
+}
+```
