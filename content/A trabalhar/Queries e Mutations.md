@@ -44,8 +44,8 @@ Retorno da api:
 {
   "data": {
     "usuario": {
-      "name": "Vitoria",
-      "height": 1.65
+      "nome": "Vitoria",
+      "altura": 1.65
     }
   }
 }
