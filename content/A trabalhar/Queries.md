@@ -1,6 +1,6 @@
-## Conceito de Queries e Mutations
+## Conceito de Queries
 
-As Queries são usadas para solicitar dados da sua api, o que seria equivalente ao metodo GET no http. Já as Mutations são utilizadas para criar, atualizar e excluir dados.
+As Queries são usadas para solicitar dados da sua api, o que seria equivalente ao metodo GET no http. 
 
 ## Campos
 
